@@ -1,0 +1,20 @@
+
+SoundFont Name:     TR-808 Drums  
+
+Category:           Drumkits and percussive kits
+
+File Size:          346 kB
+
+Last Update:        980503  
+
+Description:        Yet another drumset from the legendary Roland TR-808 drum machine. The drums have been organized into the GM format by Jeremy Arsenault. It contains 6 sets. All have been set as percusive pools and melodic pools. 
+
+Alternate URL(s):   
+
+Author Name:        Thomas Hammer & Jeremy Arsenault
+
+Author's Email:     thammer@pvv.org, 
+
+Author's Homepage:  http://www.pvv.org/~hammer/
+
+This soundfont was downloaded from the HammerSound SoundFont Library, http://www.pvv.org/~thammer/HammerSound/
